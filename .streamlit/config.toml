@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FFD700"  # Straw Hat Gold
+backgroundColor = "#0E1117" # Deep Ocean Dark
+secondaryBackgroundColor = "#161B22" # Darker Sidebar
+textColor = "#FAFAFA"
+font = "sans serif"
