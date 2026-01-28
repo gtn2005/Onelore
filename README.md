@@ -17,7 +17,7 @@ This approach ensures answers are grounded in data and remain explainable.
 
 ---
 
-##  How It Works (Architecture)
+##  How It Works 
 
 1. **Data Collection & Cleaning**
 
