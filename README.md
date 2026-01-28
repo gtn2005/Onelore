@@ -1,4 +1,4 @@
-# OneLore 🏴
+# OneLore 
 
 OneLore is a **knowledge-based AI chatbot** designed to answer questions about *One Piece* lore using **retrieval-based NLP** techniques. Instead of relying on memorized responses, OneLore fetches relevant information from a structured knowledge base and generates accurate answers using semantic similarity and transformer models.
 
