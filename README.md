@@ -104,7 +104,7 @@ streamlit run app.py
 
  Disclaimer
 
-This project is for educational purposes only. *One Piece* and its characters are the property of Eiichiro Oda and associated publishers.
+This project is for educational purposes only. One Piece and its characters are the property of Eiichiro Oda and associated publishers.
 
 ---
 
